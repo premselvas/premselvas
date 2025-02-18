@@ -1,6 +1,8 @@
-# 🚀 My GitHub Projects  
+# 🚀 Welcome to My GitHub!  
 
-### 👋 Hi, I'm [Your Name]!  
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+
+### 👋 Hi, I'm [PREM SELVA S]!  
 I am a **frontend developer** and **AI enthusiast**, currently pursuing a **B.Tech in Artificial Intelligence & Data Science** at **RP Sarathy Institute of Technology, Salem**.  
 
 ---
@@ -39,9 +41,11 @@ I am a **frontend developer** and **AI enthusiast**, currently pursuing a **B.Te
 
 ## 📬 Let's Connect!  
 📌 **GitHub:** [premselva2004](https://github.com/premselva2004)  
-📌 **LinkedIn:** [Your Profile](#)  
-📌 **Portfolio:** [Coming Soon!]  
+📌 **LinkedIn:** [Prem Selva](https://www.linkedin.com/in/premselva/)  
+📌 **Portfolio:** [https://premselvaportfolio.netlify.app/]  
 
 ---
 
 ⭐ **Star this repository** if you like my projects! **Let's build something amazing together!** 🚀  
+
+![Thank You GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
