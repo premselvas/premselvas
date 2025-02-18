@@ -49,3 +49,27 @@ I am a **frontend developer** and **AI enthusiast**, currently pursuing a **B.Te
 ⭐ **Star this repository** if you like my projects! **Let's build something amazing together!** 🚀  
 
 ![Thank You GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+
+
+## 🏆 GitHub Trophy  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=premselva2004&theme=darkhub&margin-w=15&margin-h=15)  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premselva2004&show_icons=true&theme=radical)  
+
+---
+
+## 🚀 Top Skills  
+![Top Skills](https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,bootstrap,opencv)  
+
+---
+
+## 🔥 GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=premselva2004&theme=radical&hide_border=true)  
+
+<!-- BLOG:END -->
+
+
+
