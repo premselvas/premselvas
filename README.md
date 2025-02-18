@@ -61,8 +61,11 @@ I am a **frontend developer** and **AI enthusiast**, currently pursuing a **B.Te
 
 ---
 
+
 ## 🚀 Top Skills  
-![Top Skills](https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,bootstrap,opencv)  
+![Top Skills](https://skillicons.dev/icons?i=html,css,flutter,python,opencv)  
+
+
 
 ---
 
