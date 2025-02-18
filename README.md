@@ -33,7 +33,7 @@ I am a **frontend developer** and **AI enthusiast**, currently pursuing a **B.Te
 ---
 
 ## 💡 What I'm Working On  
-🚀 Learning **React.js & JavaScript** for interactive web apps  
+🚀 Learning **HTML,CSS & Flask** for interactive web apps  
 🚀 Experimenting with **AI in computer vision**  
 🚀 Building **real-world projects**  
 
