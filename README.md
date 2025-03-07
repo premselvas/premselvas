@@ -40,7 +40,7 @@ I am a **frontend developer** and **AI enthusiast**, currently pursuing a **B.Te
 ---
 
 ## 📬 Let's Connect!  
-📌 **GitHub:** [premselva2004](https://github.com/premselvas?tab=repositories)  
+📌 **GitHub:** [premselvas](https://github.com/premselvas?tab=repositories)  
 📌 **LinkedIn:** [Prem Selva](https://www.linkedin.com/in/premselva/)  
 📌 **Portfolio:** [https://premselvaportfolio.netlify.app/]  
 
