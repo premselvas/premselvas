@@ -1,78 +1,148 @@
-# 🚀 Welcome to My GitHub!  
+<div align="center">
 
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Prem%20Selva%20S&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=AI-Aware%20Software%20Developer&descAlignY=68&descSize=18&descColor=a0a8d0" width="100%"/>
 
-### 👋 Hi, I'm [PREM SELVA S]!  
-I am a **frontend developer** and **AI enthusiast**, currently pursuing a **B.Tech in Artificial Intelligence & Data Science** at **RP Sarathy Institute of Technology, Salem**.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-premselva-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premselva/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-premselvaportfolio.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://premselvaportfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-premselva2004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/premselvas2004)
+![Profile Views](https://komarev.com/ghpvc/?username=premselva2004&style=flat-square&color=302b63)
 
----
-
-## 📌 About Me  
-🔹 Passionate about **web development, AI, and data science**  
-🔹 Skilled in **HTML, CSS, JavaScript, Python, and OpenCV**  
-🔹 Building projects that **blend AI and frontend development**  
-🔹 Always **learning, coding, and innovating**!  
+</div>
 
 ---
 
-## 🛠️ My Projects  
-### 🔥 1. Netflix Clone  
-📌 **Tech Stack:** HTML, CSS  
-📌 **Features:**  
-✅ Responsive UI with **CSS transitions & animations**  
-✅ Styled to match the original **Netflix design**  
-🔗 [View Project](https://github.com/premselva2004/my-first-pr1)  
+### 👋 About Me
 
-### 🌿 2. Green AI (Team Lead)  
-📌 **Tech Stack:** AI, Web App  
-📌 **Features:**  
-✅ Identifies plant species & detects if they are **poisonous or medicinal**  
-✅ Uses **AI image processing** for classification  
-🔗 *Project in progress*  
+I'm a final-year B.Tech student in **Artificial Intelligence & Data Science** at RP Sarathy Institute of Technology, Salem — building at the intersection of AI research and software development.
+
+I don't just study AI. I build with it — from MRI-based neurological classification systems to intelligent web applications. My goal is to be the developer who understands *both* the model and the product.
+
+- 🧠 Currently working on **MRI-based Alzheimer's/Neurocognitive Stage Classification** (capstone)
+- 🌐 Building a **freelance web development venture** (SelvaFlow — early stage)
+- 📍 Based in **Salem, Tamil Nadu**
+- 🎯 Open to **AI, Software Dev, and Frontend Engineering** roles (2026 grad)
 
 ---
 
-## 💡 What I'm Working On  
-🚀 Learning **HTML,CSS & Flask** for interactive web apps  
-🚀 Experimenting with **AI in computer vision**  
-🚀 Building **real-world projects**  
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-02569B?style=flat-square&logo=css3&logoColor=white)
+
+**AI / ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ---
 
-## 📬 Let's Connect!  
-📌 **GitHub:** [premselvas](https://github.com/premselvas?tab=repositories)  
-📌 **LinkedIn:** [Prem Selva](https://www.linkedin.com/in/premselva/)  
-📌 **Portfolio:** [https://premselvaportfolio.netlify.app/]  
+### 🔬 Featured Projects
+
+#### 🧠 Alzheimer's/Neurocognitive Stage Classifier *(Capstone)*
+> MRI-based multi-class classification system for neurological disease staging
+
+- Classifies MRI scans into **Normal / Mild Cognitive Impairment / Alzheimer's** stages
+- Uses ML pipeline with feature extraction (GLCM, histogram-based) and SVM classification
+- Built for early clinical diagnosis support in resource-constrained environments
+- **Tech:** Python · OpenCV · scikit-learn · Image Processing
 
 ---
 
-⭐ **Star this repository** if you like my projects! **Let's build something amazing together!** 🚀  
+#### 🌿 Green AI — Plant Intelligence System *(Team Lead)*
+> AI-powered plant identification with medicinal and toxicity classification
 
-![Thank You GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
-
-
-## 🏆 GitHub Trophy  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=premselva2004&theme=darkhub&margin-w=15&margin-h=15)  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premselva2004&show_icons=true&theme=radical)  
+- Identifies plant species from images and classifies them as medicinal or poisonous
+- Led a cross-functional team from research to deployment
+- 🏆 **3rd Prize** among 40+ teams at the regional symposium
+- **Tech:** AI · Image Classification · Web App
 
 ---
 
+#### 🍃 Leaf Classification System
+> Multi-class leaf identification using machine learning
 
-## 🚀 Top Skills  
-![Top Skills](https://skillicons.dev/icons?i=html,css,flutter,python,opencv)  
-
-
+- Classifies leaves from 4 plant species: Tomato, Mango, Apple, Neem
+- Implements SVM with GLCM texture + color histogram features
+- **Tech:** Python · scikit-learn · OpenCV · Feature Engineering
 
 ---
 
-## 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=premselva2004&theme=radical&hide_border=true)  
+#### 🎬 Netflix Clone
+> Pixel-accurate frontend recreation of Netflix's UI
 
-<!-- BLOG:END -->
+- Fully responsive layout with CSS animations and transitions
+- Demonstrates strong visual attention to detail and CSS craftsmanship
+- **Tech:** HTML · CSS
+- 🔗 [View on GitHub](https://github.com/premselva2004/my-first-pr1)
 
+---
 
+### 🏆 Achievements & Credentials
 
+| | |
+|---|---|
+| 🥉 | 3rd Prize – Green AI Paper Presentation (40+ teams) |
+| ✅ | NPTEL Certification – Cloud Computing, IoT & Edge ML |
+| ✅ | HackerRank – CSS Basic Certification |
+| 🎓 | Internship – YBI Foundation |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=premselva2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premselva2004&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=premselva2004&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🚀 Currently Building
+
+```
+[▓▓▓▓▓▓▓░░░]  Alzheimer's MRI Classifier — Capstone project & portfolio centrepiece
+[▓▓▓▓░░░░░░]  SelvaFlow — Freelance web dev venture (early stage)
+[▓▓▓░░░░░░░]  Full Stack Skills — Java backend + DSA for placement prep
+[▓▓░░░░░░░░]  AI-Powered Web Apps — Bridging ML models with frontend interfaces
+```
+
+---
+
+<div align="center">
+
+### 💬 Let's connect and build something meaningful.
+
+*Actively seeking AI, Software Development, and Frontend Engineering opportunities for 2026.*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premselva/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://premselvaportfolio.netlify.app/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
