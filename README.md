@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-premselva-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premselva/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-premselvaportfolio.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://premselvaportfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-premselva2004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/premselvas2004)
+[![GitHub](https://img.shields.io/badge/GitHub-premselva2004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/premselvas)
 ![Profile Views](https://komarev.com/ghpvc/?username=premselva2004&style=flat-square&color=302b63)
 
 </div>
