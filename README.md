@@ -1,70 +1,46 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20👋%20I'm%20Prem%20Selva%20S&fontSize=35&animation=fadeIn&fontColor=ffffff&fontAlignY=38" width="100%" />
+  <!-- Dynamic Typing Header Banner -->
+  <a href="https://premselvaportfolio.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Prem+Selva+S!+%F0%9F%90%A7;Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+%26+Web+Architect+%E2%9C%A8;Explore+My+Portfolio+Below!+%F0%9F%9A%80" alt="Typing Header Animation" />
+  </a>
 
-  <h3>🚀 Full-Stack Developer & Tech Enthusiast</h3>
+  <p align="center">
+    <b>Crafting scalable web applications with clean code, sleek UI, and efficient architecture.</b>
+  </p>
 
+  <!-- Interactive Action Buttons -->
   <p>
     <a href="https://premselvaportfolio.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Website-00b4d8?style=for-the-badge&logo=About.me&logoColor=white" />
+      <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-00F5D4?style=for-the-badge&logoColor=000000&labelColor=0D1117" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/premselvas" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://github.com/premselvas" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Profile-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:contact@premselvas.com">
+      <img src="https://img.shields.io/badge/Email-Get_In_Touch-FF007F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
-</div>
 
----
-
-### 💡 About Me
-- 🔭 I’m currently building cool web applications and expanding my software development skill set.
-- 🚀 Passionate about clean code, performance optimization, and modern UI/UX design.
-- ⚡ Fun fact: I love turning complex problems into simple, beautiful, and intuitive solutions.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-| Category | Technologies |
-| :---: | :--- |
-| **Languages** | `![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)` `![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)` `![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)` `![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)` |
-| **Frontend & UI** | `![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)` `![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)` |
-| **Tools & Version Control** | `![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)` `![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)` `![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)` `![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)` |
+  <!-- Profile Visitor Counter & Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=premselvas&label=Profile%20Views&color=00f5d4&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/premselvas?label=Followers&style=flat-square&color=7b2cbf" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/premselvas?label=Total%20Stars&style=flat-square&color=ff007f" alt="GitHub Stars" />
+  </p>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Developer Snapshot
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=premselvas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Prem's GitHub Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=premselvas&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" /></td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premselvas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
-</div>
-
----
-
-### 📈 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=premselvas&theme=tokyonight&no-bg=true&margin-h=15&margin-v=15" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20stopping%20by!%20🌟&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" />
-</div>
+```javascript
+const developer = {
+  name: "Prem Selva S",
+  role: "Full-Stack Software Developer",
+  location: "India 🇮🇳",
+  website: "[https://premselvaportfolio.netlify.app/](https://premselvaportfolio.netlify.app/)",
+  corePassions: ["Web Development", "UI/UX Engineering", "Open Source"],
+  status: "🟢 Available for exciting projects & collaborations"
+};
