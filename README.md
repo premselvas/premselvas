@@ -1,81 +1,128 @@
 <div align="center">
 
-<!-- Animated typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Hi+there%2C+I'm+Prem+Selva+S+%F0%9F%91%8B;AI+%26+Data+Science+Graduate+2026;Building+with+Python%2C+ML+%26+Web+Dev" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFA62B,50:FFD93D,75:6BCB77,100:4D96FF&height=260&section=header&text=PREM%20SELVA%20S&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Founder%20%40%20SelvaFlow&descAlignY=58&descSize=20&descColor=ffffff" />
 
-<!-- Wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=180&section=header&text=SelvaFlow%20%7C%20PremSelvaS&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Web%20Development&descAlignY=55&descSize=18" />
-
-</div>
-
-### 🚀 About Me
-
-- 🎓 2026 graduate in **Artificial Intelligence & Data Science**, RP Sarathy Institute of Technology
-- 🔭 Founder of **[SelvaFlow](#)** — a freelance web development & AI solutions venture
-- 🧠 Built an AI chatbot (Python + Streamlit + Groq API + LLaMA 3.3 70B) with a glassmorphism UI
-- 📄 Published CNN-based research on Alzheimer's detection (ICETS'26)
-- 🌱 Currently exploring advanced ML deployment, automation (n8n/Make), and cloud (Azure)
-- 💬 Ask me about Python, Machine Learning, or building AI-powered web apps
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/premselvas)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=FF6B6B,FFA62B,FFD93D,6BCB77,4D96FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Training+Models%2C+Shipping+Products+%F0%9F%A4%96;Welcome+to+my+corner+of+GitHub+%E2%9C%A8" />
 
 <br>
 
-### 🛠️ Tech Stack
+![Profile Views](https://komarev.com/ghpvc/?username=PremSelvaS&color=ff6b6b&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/PremSelvaS?color=4D96FF&style=for-the-badge&label=FOLLOWERS&logo=github)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4D96FF,100:6BCB77&height=4&width=100%" />
+
+##  Who I Am
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+name: Prem Selva S
+role: AI & Data Science Graduate — 2026
+venture: SelvaFlow (freelance web dev + AI)
+focus: [Machine Learning, Data Analysis, Web Apps]
+currently_building: SelvaFlow AI Chatbot (Groq + LLaMA 3.3 70B)
+published: CNN-based Alzheimer's Detection — ICETS'26
+status: Open to Data Science / AI-ML / SDE roles 🚀
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PremSelvaS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=ffffff" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BCB77,100:FFD93D&height=4&width=100%" />
+
+## 🔥 Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,vue,flask,tensorflow,git,github,mysql,azure,powerbi&theme=dark" />
+![Python](https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFA62B?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD93D?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-6BCB77?style=for-the-badge&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4D96FF?style=for-the-badge&logo=vue.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-FFA62B?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FFD93D?style=for-the-badge&logo=mysql&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-6BCB77?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-4D96FF?style=for-the-badge&logo=powerbi&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-FF6B6B?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FFA62B?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD93D,100:4D96FF&height=4&width=100%" />
+
+## 💡 Featured Build — SelvaFlow AI Chatbot
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">🎨<br><b>Glassmorphism UI</b><br><sub>Redesigned sidebar & mobile layout</sub></td>
+<td align="center" width="33%">⚡<br><b>Groq + LLaMA 3.3 70B</b><br><sub>Low-latency AI responses</sub></td>
+<td align="center" width="33%">🖥️<br><b>Built with Streamlit</b><br><sub>Fast, Python-native front end</sub></td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4D96FF,100:FF6B6B&height=4&width=100%" />
+
+## 📈 The Grind
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PremSelvaS&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=4D96FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremSelvaS&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PremSelvaS&theme=react-dark&bg_color=0D1117&color=FFD93D&line=FF6B6B&point=6BCB77" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:6BCB77&height=4&width=100%" />
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PremSelvaS&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BCB77,100:FFA62B&height=4&width=100%" />
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PremSelvaS/PremSelvaS/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+> One-time setup needed — see note at the end.
 
 <br>
 
-### 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PremSelvaS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PremSelvaS&theme=tokyonight&hide_border=true" height="165"/>
+### 📫 Let's Build Something
 
-</div>
+<a href="https://linkedin.com/in/premselvas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/PremSelvaS" target="_blank"><img src="https://img.shields.io/badge/GitHub-4D96FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<div align="center">
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremSelvaS&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<br>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PremSelvaS/PremSelvaS/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-</div>
-
-> **Note:** The snake animation above needs a one-time GitHub Action setup — see the "Enable the animations" section below.
-
-<br>
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/premselvas" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/PremSelvaS" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:38BDF8&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D96FF,25:6BCB77,50:FFD93D,75:FFA62B,100:FF6B6B&height=150&section=footer" />
 
 </div>
