@@ -8,8 +8,6 @@
 </a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=premselvas&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/premselvas?label=Followers&style=for-the-badge&logo=github&color=24292e" alt="followers" />
 
 </div>
