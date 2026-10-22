@@ -1,128 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFA62B,50:FFD93D,75:6BCB77,100:4D96FF&height=260&section=header&text=PREM%20SELVA%20S&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Founder%20%40%20SelvaFlow&descAlignY=58&descSize=20&descColor=ffffff" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=FF6B6B,FFA62B,FFD93D,6BCB77,4D96FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Training+Models%2C+Shipping+Products+%F0%9F%A4%96;Welcome+to+my+corner+of+GitHub+%E2%9C%A8" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=PremSelvaS&color=ff6b6b&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/PremSelvaS?color=4D96FF&style=for-the-badge&label=FOLLOWERS&logo=github)
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAxMjAwIDMyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGEwZTE3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzEyMTgyNiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0idGl0bGUiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzdkZDNmYyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2E3OGJmYSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmNDcyYjYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Imdsb3ciIGN4PSI1MCUiIGN5PSI1MCUiIHI9IjUwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM3ZGQzZmMiIHN0b3Atb3BhY2l0eT0iMC4zNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM3ZGQzZmMiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjMyMCIgZmlsbD0idXJsKCNiZykiLz4KCiAgPCEtLSBjb25zdGVsbGF0aW9uIG5ldHdvcmssIGRhdGEvQUkgbW90aWYgLS0+CiAgPGcgc3Ryb2tlPSIjMmEzMzQ4IiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuOCI+CiAgICA8bGluZSB4MT0iODAiIHkxPSI2MCIgeDI9IjIyMCIgeTI9IjExMCI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjI7MC44OzAuMiIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2xpbmU+CiAgICA8bGluZSB4MT0iMjIwIiB5MT0iMTEwIiB4Mj0iMTUwIiB5Mj0iMjIwIj48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuODswLjI7MC44IiBkdXI9IjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvbGluZT4KICAgIDxsaW5lIHgxPSIyMjAiIHkxPSIxMTAiIHgyPSIzNDAiIHkyPSI3MCI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7MC45OzAuMyIgZHVyPSIzLjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvbGluZT4KICAgIDxsaW5lIHgxPSI5NTAiIHkxPSI5MCIgeDI9IjEwODAiIHkyPSI2MCI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjI7MC44OzAuMiIgZHVyPSI0LjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvbGluZT4KICAgIDxsaW5lIHgxPSI5NTAiIHkxPSI5MCIgeDI9IjEwMjAiIHkyPSIyMTAiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC44OzAuMzswLjgiIGR1cj0iMy44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2xpbmU+CiAgICA8bGluZSB4MT0iMTAyMCIgeTE9IjIxMCIgeDI9IjExMzAiIHkyPSIyNTAiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC4zOzAuOTswLjMiIGR1cj0iNS4ycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2xpbmU+CiAgPC9nPgogIDxnIGZpbGw9IiM3ZGQzZmMiPgogICAgPGNpcmNsZSBjeD0iODAiIGN5PSI2MCIgcj0iMyI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iciIgdmFsdWVzPSIyOzQ7MiIgZHVyPSIyLjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iMjIwIiBjeT0iMTEwIiByPSIzIj48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJyIiB2YWx1ZXM9IjI7NTsyIiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iMTUwIiBjeT0iMjIwIiByPSIyLjUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InIiIHZhbHVlcz0iMjs0OzIiIGR1cj0iMi4ycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9IjM0MCIgY3k9IjcwIiByPSIyLjUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InIiIHZhbHVlcz0iMjszLjU7MiIgZHVyPSIyLjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvY2lyY2xlPgogIDwvZz4KICA8ZyBmaWxsPSIjZjQ3MmI2Ij4KICAgIDxjaXJjbGUgY3g9Ijk1MCIgY3k9IjkwIiByPSIzIj48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJyIiB2YWx1ZXM9IjI7NDsyIiBkdXI9IjIuNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSIxMDgwIiBjeT0iNjAiIHI9IjIuNSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iciIgdmFsdWVzPSIyOzMuNTsyIiBkdXI9IjMuMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSIxMDIwIiBjeT0iMjEwIiByPSIzIj48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJyIiB2YWx1ZXM9IjI7NTsyIiBkdXI9IjIuNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSIxMTMwIiBjeT0iMjUwIiByPSIyLjUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InIiIHZhbHVlcz0iMjs0OzIiIGR1cj0iMy42cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2NpcmNsZT4KICA8L2c+CgogIDxjaXJjbGUgY3g9IjYwMCIgY3k9IjE1MCIgcj0iMTYwIiBmaWxsPSJ1cmwoI2dsb3cpIi8+CgogIDx0ZXh0IHg9IjYwMCIgeT0iMTUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjU4IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSJ1cmwoI3RpdGxlKSIgbGV0dGVyLXNwYWNpbmc9IjIiPgogICAgUHJlbSBTZWx2YSBTCiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuNzU7MTswLjc1IiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvdGV4dD4KCiAgPHRleHQgeD0iNjAwIiB5PSIxOTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIxOCIgZmlsbD0iIzk0YTNiOCIgbGV0dGVyLXNwYWNpbmc9IjMiPgogICAgQUkgJmFtcDsgREFUQSBTQ0lFTkNFICDCtyAgRk9VTkRFUiwgU0VMVkFGTE9XCiAgPC90ZXh0PgoKICA8bGluZSB4MT0iNTAwIiB5MT0iMjIwIiB4Mj0iNzAwIiB5Mj0iMjIwIiBzdHJva2U9IiM3ZGQzZmMiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC41Ii8+CgogIDx0ZXh0IHg9IjYwMCIgeT0iMjU1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtc3R5bGU9Iml0YWxpYyIgZmlsbD0iIzY0NzQ4YiI+CiAgICBxdWlldCB3b3JrLCBjYXJlZnVsIG1vZGVscywgdGhpbmdzIHRoYXQgc2hpcAogIDwvdGV4dD4KPC9zdmc+Cg==" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4D96FF,100:6BCB77&height=4&width=100%" />
+<br>
 
-##  Who I Am
+I like problems that sit at the edge of "clean enough to model" and "messy enough to be real" — that's mostly what pulled me toward AI and data in the first place. Below is less a wall of badges and more a short, honest account of what I actually work on.
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<br>
 
-```yaml
-name: Prem Selva S
-role: AI & Data Science Graduate — 2026
-venture: SelvaFlow (freelance web dev + AI)
-focus: [Machine Learning, Data Analysis, Web Apps]
-currently_building: SelvaFlow AI Chatbot (Groq + LLaMA 3.3 70B)
-published: CNN-based Alzheimer's Detection — ICETS'26
-status: Open to Data Science / AI-ML / SDE roles 🚀
+### on the bench right now
+
+**SelvaFlow** is the name I put on my own freelance practice — web development work that increasingly leans into AI tooling. The flagship piece is a chatbot built in Python and Streamlit, running on Groq's API with LLaMA 3.3 70B underneath, with a glassmorphism interface I've rebuilt a few times as I learn what "clean" actually means on mobile.
+
+Before that, a CNN model for Alzheimer's MRI classification, written up and presented at ICETS'26 — the kind of project that taught me more about *validating* a result than building one.
+
+<br>
+
+### how I tend to work
+
+```
+start with the data, not the architecture
+read the error message before the forum post
+ship something small before something clever
+rebuild the UI at least once — the first version is never it
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PremSelvaS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=ffffff" width="100%"/>
+### tools I reach for
 
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **languages** | Python, Java, JavaScript |
+| **ml / data** | TensorFlow, Pandas, NumPy, scikit-learn-adjacent work |
+| **web** | React, Vue, Flask, Streamlit |
+| **data & viz** | MySQL, Power BI, Excel (Power Query, macros) |
+| **currently learning** | cloud deployment on Azure, light automation with n8n |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BCB77,100:FFD93D&height=4&width=100%" />
+<br>
 
-## 🔥 Tech Arsenal
+### a few things I'd rather you read than scan
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FFA62B?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD93D?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-6BCB77?style=for-the-badge&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4D96FF?style=for-the-badge&logo=vue.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-FFA62B?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FFD93D?style=for-the-badge&logo=mysql&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-6BCB77?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-4D96FF?style=for-the-badge&logo=powerbi&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-FF6B6B?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FFA62B?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD93D,100:4D96FF&height=4&width=100%" />
-
-## 💡 Featured Build — SelvaFlow AI Chatbot
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">🎨<br><b>Glassmorphism UI</b><br><sub>Redesigned sidebar & mobile layout</sub></td>
-<td align="center" width="33%">⚡<br><b>Groq + LLaMA 3.3 70B</b><br><sub>Low-latency AI responses</sub></td>
-<td align="center" width="33%">🖥️<br><b>Built with Streamlit</b><br><sub>Fast, Python-native front end</sub></td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4D96FF,100:FF6B6B&height=4&width=100%" />
-
-## 📈 The Grind
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PremSelvaS&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=4D96FF" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremSelvaS&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PremSelvaS&theme=react-dark&bg_color=0D1117&color=FFD93D&line=FF6B6B&point=6BCB77" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:6BCB77&height=4&width=100%" />
-
-## 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PremSelvaS&theme=radical&no-frame=true&row=1&column=6" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BCB77,100:FFA62B&height=4&width=100%" />
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PremSelvaS/PremSelvaS/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-> One-time setup needed — see note at the end.
+- A 2026 AI & Data Science graduate, which mostly means I've spent four years being wrong about models in increasingly specific ways.
+- I'd rather hand you one working prototype than three slides about one.
+- Most of what's public on this profile is smaller than what I actually build — some of it is still just for me.
 
 <br>
 
 <div align="center">
 
-### 📫 Let's Build Something
+[LinkedIn](https://linkedin.com/in/premselvas) · [GitHub](https://github.com/PremSelvaS)
 
-<a href="https://linkedin.com/in/premselvas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/PremSelvaS" target="_blank"><img src="https://img.shields.io/badge/GitHub-4D96FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D96FF,25:6BCB77,50:FFD93D,75:FFA62B,100:FF6B6B&height=150&section=footer" />
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIxMjAiIHZpZXdCb3g9IjAgMCAxMjAwIDEyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmcyIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwYTBlMTciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMTIxODI2Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lMiIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjN2RkM2ZjIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiNhNzhiZmEiIHN0b3Atb3BhY2l0eT0iMC44Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2Y0NzJiNiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIxMjAiIGZpbGw9InVybCgjYmcyKSIvPgogIDxsaW5lIHgxPSIxMDAiIHkxPSI2MCIgeDI9IjExMDAiIHkyPSI2MCIgc3Ryb2tlPSJ1cmwoI2xpbmUyKSIgc3Ryb2tlLXdpZHRoPSIxLjUiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieDEiIHZhbHVlcz0iMTAwOzE0MDsxMDAiIGR1cj0iNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJ4MiIgdmFsdWVzPSIxMTAwOzEwNjA7MTEwMCIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L2xpbmU+CiAgPHRleHQgeD0iNjAwIiB5PSI2OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjE0IiBmaWxsPSIjNjQ3NDhiIiBsZXR0ZXItc3BhY2luZz0iMiI+CiAgICB0aGFua3MgZm9yIHN0b3BwaW5nIGJ5CiAgPC90ZXh0Pgo8L3N2Zz4K" width="100%" />
 
 </div>
