@@ -21,7 +21,7 @@
 <td width="60%">
 
 ```yaml
-name: Prem Selvas
+name: Prem Selva S
 role: Python Developer , AI&DS Student
 location: Tamil Nadu, India 🇮🇳
 interests: Web Dev, Python, AI/ML, Data Analyst 
