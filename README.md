@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prem Selvas</h1>
-<h3 align="center">[Your role, e.g. Aspiring Full-Stack Developer | CS Student | Problem Solver]</h3>
+<h3 align="center">[Your role, e.g. Aspiring Full-Stack Developer | AI&DA Student | Problem Solver]</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I+love+building+things+with+code;Always+learning,+always+improving" alt="Typing SVG" />
