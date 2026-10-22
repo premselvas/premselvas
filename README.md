@@ -1,151 +1,222 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Prem%20Selva%20S&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=AI-Aware%20Software%20Developer&descAlignY=68&descSize=18&descColor=a0a8d0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:ff00c8,70:00fff7,100:0f0c29&height=200&section=header&text=PLAYER%20ONE%3A%20PREM%20SELVA%20S&fontSize=34&fontColor=00FF41&fontAlignY=38&animation=fadeIn&desc=%3E%20AI%20%2F%20ML%20DEVELOPER%20%E2%80%94%20INSERT%20COIN%20TO%20CONTINUE&descAlignY=58&descSize=16&descColor=00FFF7" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-premselva-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premselva/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-premselvaportfolio.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://premselvaportfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-premselvas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/premselvas)
-![Profile Views](https://komarev.com/ghpvc/?username=premselva2004&style=flat-square&color=302b63)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&height=50&lines=LOADING+PLAYER+PROFILE...;CLASS%3A+AI+%2F+ML+DEVELOPER;GUILD%3A+SELVAFLOW;%3E+PRESS+START+%E2%86%92" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-premselva-ff00c8?style=for-the-badge&logo=linkedin&logoColor=00fff7&labelColor=0f0c29)](https://www.linkedin.com/in/premselva/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-PLAY%20NOW-39FF14?style=for-the-badge&logo=netlify&logoColor=0f0c29&labelColor=0f0c29)](https://premselvaportfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-premselvas-00fff7?style=for-the-badge&logo=github&logoColor=0f0c29&labelColor=0f0c29)](https://github.com/premselvas)
+
+<img src="https://komarev.com/ghpvc/?username=premselva2004&style=for-the-badge&color=ff00c8&labelColor=0f0c29&label=VISITORS" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
 
-### 👋 About Me
+\`\`\`
+╔══════════════════════════════════════════════════════════════╗
+║  C H A R A C T E R   S H E E T                                ║
+╚══════════════════════════════════════════════════════════════╝
+\`\`\`
 
-I'm a **2026 B.Tech graduate** in **Artificial Intelligence & Data Science** from RP Sarathy Institute of Technology, Salem — building at the intersection of AI research and software development.
+<div align="center">
 
-I don't just study AI. I build with it — from deep learning-based medical diagnosis systems to AI agents and intelligent web applications. My goal is to be the developer who understands *both* the model and the product.
+| STAT | VALUE |
+|:---|:---|
+| 🎮 **PLAYER** | Prem Selva S |
+| 🏫 **ORIGIN** | RP Sarathy Institute of Technology, Salem |
+| 🎓 **CLASS** | B.Tech — Artificial Intelligence & Data Science |
+| ⭐ **LEVEL** | 2026 Graduate |
+| 💾 **XP SCORE** | CGPA 7.7 / 10 |
+| 🏰 **GUILD** | SelvaFlow (Freelance Web Dev Venture) |
+| 📍 **SPAWN POINT** | Salem, Tamil Nadu |
+| 🎯 **CURRENT QUEST** | AI/ML · Data Science · Software Development roles |
 
-- 🧠 Built a **CNN-based Alzheimer's Disease Detection System** with Score-CAM explainability
-- 🤖 Built an **AI Cold Email Agent** that automates job-application outreach
-- 🌐 Running a **freelance web development venture** — SelvaFlow
-- 📍 Based in **Salem, Tamil Nadu**
-- 🎯 Open to **AI/ML, Data Science, and Software Development** roles
+</div>
 
----
+\`\`\`
+╔══════════════════════════════════════════════════════════════╗
+║  S K I L L   T R E E                                          ║
+╚══════════════════════════════════════════════════════════════╝
+\`\`\`
 
-### 🛠️ Tech Stack
+**⚔️ LANGUAGES**
 
-**Languages**
+\`\`\`
+PYTHON        ████████████████████ 95%  [MAIN WEAPON]
+JAVA          ██████████████░░░░░░ 70%
+JAVASCRIPT    █████████████░░░░░░░ 65%
+SQL           ████████████░░░░░░░░ 60%
+\`\`\`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**🛡️ AI / ML ARSENAL**
 
-**Frontend**
+\`\`\`
+TENSORFLOW / KERAS   ████████████████░░░░ 80%
+SCIKIT-LEARN         ███████████████░░░░░ 75%
+OPENCV               ██████████████░░░░░░ 70%
+GENERATIVE AI / LLMs ████████████░░░░░░░░ 60%
+\`\`\`
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-02569B?style=flat-square&logo=css3&logoColor=white)
+**🧰 FRONTEND + TOOLS**
 
-**AI / ML**
+\`\`\`
+HTML5 / CSS3    ████████████████░░░░ 80%
+FLASK           ██████████████░░░░░░ 70%
+STREAMLIT       ████████████████░░░░ 80%
+GIT / GITHUB    ████████████████░░░░ 80%
+\`\`\`
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<div align="center">
 
-**Tools & Platforms**
+![Python](https://img.shields.io/badge/-PYTHON-0f0c29?style=for-the-badge&logo=python&logoColor=39FF14)
+![Java](https://img.shields.io/badge/-JAVA-0f0c29?style=for-the-badge&logo=openjdk&logoColor=ff00c8)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-0f0c29?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/-SQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=00fff7)
+![TensorFlow](https://img.shields.io/badge/-TENSORFLOW-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/-SCIKIT--LEARN-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/-OPENCV-0f0c29?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Flask](https://img.shields.io/badge/-FLASK-0f0c29?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-STREAMLIT-0f0c29?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Git](https://img.shields.io/badge/-GIT-0f0c29?style=for-the-badge&logo=git&logoColor=F05032)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+</div>
 
----
+\`\`\`
+╔══════════════════════════════════════════════════════════════╗
+║  Q U E S T   L O G  —  P R O J E C T S   C L E A R E D         ║
+╚══════════════════════════════════════════════════════════════╝
+\`\`\`
 
-### 🔬 Featured Projects
-
-#### 🧠 [Alzheimer's Disease Detection using AI](https://github.com/premselvas/alzheimer-detection-using-ai)
+### 🧠 BOSS FIGHT: Alzheimer's Disease Detection using AI
+\`DIFFICULTY ★★★★★\`
 > Deep learning system for detecting and classifying Alzheimer's disease stages from brain MRI scans
 
 - CNN-based multi-class classifier (Non-Demented / Very Mild / Mild / Moderate Demented)
 - Score-CAM heatmap visualization for model explainability
 - Flask web app with MRI upload, validation, and confidence scoring
-- **Tech:** Python · TensorFlow/Keras · Flask · OpenCV
+- **Loot:** \`Python\` \`TensorFlow/Keras\` \`Flask\` \`OpenCV\`
+- 🔗 [github.com/premselvas/alzheimer-detection-using-ai](https://github.com/premselvas/alzheimer-detection-using-ai)
 
 ---
 
-#### 📧 [AI Cold Email Agent](https://github.com/premselvas/AI_Cold_Email_Agent)
+### 📧 SIDE QUEST: AI Cold Email Agent
+\`DIFFICULTY ★★★★☆\`
 > Production-ready AI agent that automates personalized cold emails for job applications
 
 - Resume parsing (PDF) and job description parsing from text or URLs
 - ATS score analysis and AI-generated personalized emails via Groq LLaMA 3.3 70B
 - Gmail API integration for sending, with SQLite history tracking
-- **Tech:** Python · Streamlit · Groq API · Gmail API (OAuth2) · SQLite
+- **Loot:** \`Python\` \`Streamlit\` \`Groq API\` \`Gmail API (OAuth2)\` \`SQLite\`
+- 🔗 [github.com/premselvas/AI_Cold_Email_Agent](https://github.com/premselvas/AI_Cold_Email_Agent)
 
 ---
 
-#### 💬 [SelvaFlow AI Chatbot](https://github.com/premselvas/selvaflow_ai_chatbot)
+### 💬 SIDE QUEST: SelvaFlow AI Chatbot
+\`DIFFICULTY ★★★☆☆\`
 > Business-oriented AI assistant built for the SelvaFlow freelance venture
 
 - Knowledge-base-driven chatbot for coding help, freelancing, and business queries
 - Powered by Groq LLaMA 3.3 70B with a custom dark-themed Streamlit UI
-- **Tech:** Python · Streamlit · Groq API
+- **Loot:** \`Python\` \`Streamlit\` \`Groq API\`
+- 🔗 [github.com/premselvas/selvaflow_ai_chatbot](https://github.com/premselvas/selvaflow_ai_chatbot)
 
 ---
 
-#### 🏏 [IPL Player Data Analysis](https://github.com/premselvas/IPL_Player_Analysis_work1)
+### 🏏 SIDE QUEST: IPL Player Data Analysis
+\`DIFFICULTY ★★☆☆☆\`
 > Excel-based performance analysis of 559 IPL players across 11 countries
 
 - Batting, bowling, and all-rounder analysis using SUM, SUMIF, COUNTIF, pivot tables
 - Country-wise insights, aggressive-batsmen and economical-bowler detection
-- **Tech:** Microsoft Excel · Pivot Tables · Statistical Analysis
+- **Loot:** \`Microsoft Excel\` \`Pivot Tables\` \`Statistical Analysis\`
+- 🔗 [github.com/premselvas/IPL_Player_Analysis_work1](https://github.com/premselvas/IPL_Player_Analysis_work1)
 
 ---
 
-#### 🌿 Green AI — Plant Intelligence System *(Team Lead)*
+### 🌿 RAID BOSS (TEAM LEAD): Green AI — Plant Intelligence System
+\`DIFFICULTY ★★★★☆\`   🏆 \`3RD PRIZE — 40+ TEAMS\`
 > AI-powered plant identification with medicinal and toxicity classification
 
 - Identifies plant species from images and classifies them as medicinal or poisonous
 - 🏆 3rd Prize among 40+ teams at the regional symposium
-- **Tech:** AI · Image Classification · Web App
+- **Loot:** \`AI\` \`Image Classification\` \`Web App\`
 
 ---
 
-#### 🎬 [Netflix Clone](https://github.com/premselva2004/my-first-pr1)
+### 🎬 TUTORIAL LEVEL: Netflix Clone
+\`DIFFICULTY ★☆☆☆☆\`
 > Pixel-accurate frontend recreation of Netflix's UI
 
 - Fully responsive layout with CSS animations and transitions
-- **Tech:** HTML · CSS
+- **Loot:** \`HTML\` \`CSS\`
+- 🔗 [github.com/premselva2004/my-first-pr1](https://github.com/premselva2004/my-first-pr1)
 
----
+\`\`\`
+╔══════════════════════════════════════════════════════════════╗
+║  A C H I E V E M E N T S   U N L O C K E D                    ║
+╚══════════════════════════════════════════════════════════════╝
+\`\`\`
 
-### 🏆 Achievements & Credentials
-
-| | |
-|---|---|
+| 🏅 | ACHIEVEMENT |
+|:---:|:---|
 | 📄 | Published CNN-based Alzheimer's detection research (ICETS'26) |
-| 🥉 | 3rd Prize – Green AI Paper Presentation (40+ teams) |
-| ✅ | NPTEL Certification – Cloud Computing, IoT & Edge ML |
-| ✅ | HackerRank – CSS Basic Certification |
-| 🎓 | Internship – YBI Foundation |
+| 🥉 | 3rd Prize — Green AI Paper Presentation (40+ teams) |
+| ✅ | NPTEL Certification — Cloud Computing, IoT & Edge ML |
+| ✅ | HackerRank — CSS Basic Certification |
+| 🎓 | Internship — YBI Foundation |
 
----
+\`\`\`
+╔══════════════════════════════════════════════════════════════╗
+║  C U R R E N T L Y   B U I L D I N G                           ║
+╚══════════════════════════════════════════════════════════════╝
+\`\`\`
 
-### 🚀 Currently Building
-
-```
+\`\`\`
 [▓▓▓▓▓▓▓▓▓░]  SelvaFlow — Freelance web dev venture & AI chatbot product
 [▓▓▓▓▓▓░░░░]  AI Agents — Automating real workflows (cold email, outreach)
 [▓▓▓▓░░░░░░]  Full Stack Skills — Java backend + DSA for placement prep
 [▓▓▓░░░░░░░]  AI-Powered Web Apps — Bridging ML models with frontend interfaces
-```
+\`\`\`
 
----
+\`\`\`
+╔══════════════════════════════════════════════════════════════╗
+║  L I V E   S C O R E B O A R D                                 ║
+╚══════════════════════════════════════════════════════════════╝
+\`\`\`
 
 <div align="center">
 
-### 💬 Let's connect and build something meaningful.
+<img src="https://github-readme-stats.vercel.app/api?username=premselvas&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=39FF14&icon_color=ff00c8&text_color=00fff7&ring_color=ff00c8" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=premselvas&theme=radical&hide_border=true&background=0f0c29&ring=ff00c8&fire=39FF14&currStreakLabel=00fff7" width="48%"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premselvas&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=39FF14&text_color=00fff7" width="48%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=premselvas&theme=radical&no-frame=true&margin-w=8&row=1&column=6" width="90%"/>
+
+</div>
+
+\`\`\`
+╔══════════════════════════════════════════════════════════════╗
+║  M U L T I P L A Y E R  —  C O N N E C T                       ║
+╚══════════════════════════════════════════════════════════════╝
+\`\`\`
+
+<div align="center">
+
+**💬 Let's connect and build something meaningful.**
 *Actively seeking AI/ML, Data Science, and Software Development opportunities.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premselva/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://premselvaportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-ff00c8?style=for-the-badge&logo=linkedin&logoColor=0f0c29)](https://www.linkedin.com/in/premselva/)
+[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-39FF14?style=for-the-badge&logo=netlify&logoColor=0f0c29)](https://premselvaportfolio.netlify.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=ff00c8&center=true&vCenter=true&width=500&height=40&lines=GAME+OVER...;CONTINUE%3F+(Y%2FN)" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:00fff7,70:ff00c8,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
