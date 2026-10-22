@@ -1,7 +1,7 @@
 <!-- ================= HEADER BANNER ================= -->
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Prem%20Selvas&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Learner%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=20" width="100%" alt="header banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+profile;I+turn+ideas+into+working+code+%F0%9F%92%BB;Currently+learning+something+new+every+day+%F0%9F%9A%80;Open+to+collaboration+and+opportunities+%F0%9F%A4%9D" alt="Typing SVG" />
@@ -24,11 +24,11 @@
 
 ```yaml
 name: Prem Selvas
-role: Python Developer, AI&DS Student 
+role: Python Developer , AI&DS Student
 location: Tamil Nadu, India 🇮🇳
 interests: Web Dev, Python, AI/ML, Data Analyst 
-currently_learning: [React, Node.js, DSA]
-open_to: [Internships, Collaboration, Freelance]
+currently_learning: React, Node.js, DSA
+open_to: Internships, Collaboration, Freelance
 ```
 
 </td>
